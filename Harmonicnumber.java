@@ -17,9 +17,6 @@ public class Harmonicnumber {
     
     sc.close();
 
-    double ans=harmonicNumber(N);
-    System.out.println(ans);
-
    } 
    public static double harmonicNumber(int N) {
     double harmonicValue = 0.0;
